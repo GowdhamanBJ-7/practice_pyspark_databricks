@@ -94,3 +94,4 @@ date_df.show()
 
 #----------------------------------------------------------------
 #write a query to find out the company who have atleast 2 users speaks both English and German
+# https://www.youtube.com/watch?v=MNI6r2qz8oE
